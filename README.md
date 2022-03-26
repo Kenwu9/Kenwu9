@@ -1,13 +1,14 @@
-# Hi there, I'm Ken Wu :man_astronaut: :wave:
+# Hi there, I'm Ken :man_astronaut: :wave:
+I'm a student, developer, serial entrepreneur, and extreme AI enthusiast.
 
 Find me here :point_down::
 
+
 <a href="https://www.linkedin.com/in/ken-wu1997/"><img align="left" src="https://github.com/Kenwu9/Kenwu9/blob/main/social-media-icons/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
+
 <a href="https://www.instagram.com/k_kenetik/"><img align="left" src="https://github.com/Kenwu9/Kenwu9/blob/main/social-media-icons/instagram.png" alt="icon | Instagram" width="21px"/></a>
+
 <a href="https://twitter.com/kenwu09"><img align="left" src="https://github.com/Kenwu9/Kenwu9/blob/main/social-media-icons/twitter.png" alt="icon | Twitter" width="21px"/></a>
-
-
-
 
 
 
