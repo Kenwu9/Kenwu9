@@ -11,18 +11,19 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Kenwu09.Kenwu09)
 
-<br />
+<p>
 I'm a student, self-taught developer, entrepreneur, and extreme AI enthusiast. I have a BCom in Marketing and Management from the University of Melbourne, and I am
-currently on the pursuit for a Masters in Computer Science. I am passionate about AI applications and would 
+currently on the pursuit for a Masters in Computer Science.
+<p/>
 
+#### Recent Experiences:
+- :rocket: Founder of NEO Fitness
+- :man_astronaut: Software Intern at Mars Society Australia
+- :camera: Content Manager at DevOps Talks Conference 2022
+- :mag_right::bulb:
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
-
+#### Languages and Technologies:
+<code><img height="20" src="https://github.com/Kenwu9/Kenwu9/blob/main/Language-icons/C-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -34,7 +35,7 @@ currently on the pursuit for a Masters in Computer Science. I am passionate abou
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## Find me here :point_down::
+
 
 
 <a href="https://www.linkedin.com/in/ken-wu1997/"><img align="left" src="https://github.com/Kenwu9/Kenwu9/blob/main/social-media-icons/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
