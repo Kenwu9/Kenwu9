@@ -1,5 +1,5 @@
 Hi there, I'm Ken Wu :man_astronaut: :wave:
-[![alt text][1.1]][1]
+[![alt text][http://i.imgur.com/tXSoThF.png]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
