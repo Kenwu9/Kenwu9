@@ -6,6 +6,15 @@ Hi there, I'm Ken Wu :man_astronaut: :wave:
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
+
+<a href="https://www.linkedin.com/in/kenwu1997/"><img align="left" src="https://github.com/Kenwu9/Kenwu9/blob/main/social-media-icons/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
+                                                                                                                                                   
+<a href="https://www.instagram.com/k_kenetik/"><img align="left" src="https://github.com/Kenwu9/Kenwu9/blob/main/social-media-icons/instagram.png" alt="icon | Instagram" width="21px"/></a>
+
+<a href="https://twitter.com/kenwu09"><img align="left" src="https://github.com/Kenwu9/Kenwu9/blob/main/social-media-icons/twitter.png" alt="icon | Twitter" width="21px"/></a>
+  
+  
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 This is a test file for Kenwu9's Github Profile
