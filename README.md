@@ -20,7 +20,6 @@ currently on the pursuit for a Masters in Computer Science.
 - :rocket: Founder of NEO Fitness
 - :man_astronaut: Software Intern at Mars Society Australia
 - :camera: Content Manager at DevOps Talks Conference 2022
-- :mag_right::bulb:
 
 #### Languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
