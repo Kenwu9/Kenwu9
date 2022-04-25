@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Kenwu9.Kenwu9)
 
 <p>
-I'm a student, self-taught developer, entrepreneur, and extreme AI enthusiast. I have a BCom in Marketing and Management from the University of Melbourne, and I am
+I'm a student, self-taught developer, entrepreneur, and AI enthusiast. I have a BCom in Marketing and Management from the University of Melbourne, and I am
 currently on the pursuit for a Masters in Computer Science.
 <p/>
 
